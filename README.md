@@ -6,6 +6,5 @@ The project is about building basic html site for TOP Project: Recipe :)
 
 Skills requried -
 
-HTML
-CSS
-
+1. HTML
+2. CSS
